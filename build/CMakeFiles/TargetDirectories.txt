@@ -1,0 +1,16 @@
+/home/xt/Documents/Thesis/build/CMakeFiles/edit_cache.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/rebuild_cache.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_auxclean.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/_main.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_html.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/safepdf.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_dvi.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/ps.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_pdf.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/html.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/pdf.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_safepdf.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/auxclean.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/dvi.dir
+/home/xt/Documents/Thesis/build/CMakeFiles/main_ps.dir
